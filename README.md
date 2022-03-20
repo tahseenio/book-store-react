@@ -14,7 +14,9 @@
 
 ## Screenshots
 
-<img src="">
+<img src="https://i.imgur.com/eoFj0nx.png">
+
+<img src="https://i.imgur.com/9YiVY8z.png">
 
 ## Installation and Usage
 

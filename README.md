@@ -1,6 +1,6 @@
 # 📖 Book Store
 
-<img src="https://img.shields.io/github/deployments/tahseenio/library-react/github-pages" alt="GitHub Badge"> <img src="https://img.shields.io/github/repo-size/tahseenio/library-react">
+<img src="https://img.shields.io/github/deployments/tahseenio/book-store-react/github-pages" alt="GitHub Badge"> <img src="https://img.shields.io/github/repo-size/tahseenio/book-store-react">
 
 ### Description
 

@@ -5,10 +5,9 @@
 ### Description
 
 - A Library Website created using HTML, CSS, JS and React
-- s
-- s
-- s
-- s
+- Able to select a book for more info, add it to the cart to find the total cost to buy selected books.
+- Uses React Hooks such as useState, useEffect and useRef
+- Features Skeleton Loading State
 - Responsive on all devices
 - The website can be viewed [here](https://tahseenio.github.io/book-store-react/)
 

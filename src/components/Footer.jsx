@@ -1,8 +1,11 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Logo from "../assets/Library.svg"
+import Logo from "../assets/library-logo.png"
 
 const Footer = () => {
+    const date = new Date()
+    const year = date.getFullYear()
+
     return (
         <footer>
             <div className="container">
@@ -19,7 +22,7 @@ const Footer = () => {
                         <Link to="/cart" className="footer__link">Cart</Link>
                     </div>
                     <div className="footer__copyright">
-                        Copyright &copy; 2022 Library
+                        Copyright &copy; {year} Library
                     </div>
                 </div>
             </div>

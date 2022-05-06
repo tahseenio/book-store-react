@@ -16,7 +16,7 @@ const Footer = () => {
             </figure>
           </Link>
           <div className='footer__list'>
-            <Link to='/book-store-react' className='footer__link'>
+            <Link to='/' className='footer__link'>
               Home
             </Link>
             <span className='footer__link no-cursor'>About</span>

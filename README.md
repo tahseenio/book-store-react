@@ -1,6 +1,6 @@
 # 📖 Book Store
 
-<img src="https://img.shields.io/github/deployments/tahseenio/book-store-react/github-pages" alt="GitHub Badge"> <img src="https://img.shields.io/github/repo-size/tahseenio/book-store-react">
+<img src="https://img.shields.io/github/repo-size/tahseenio/book-store-react">
 
 ### Description
 
@@ -9,7 +9,7 @@
 - Uses React Hooks such as useState, useEffect and useRef
 - Features Skeleton Loading State
 - Responsive on all devices
-- The website can be viewed [here](https://tahseenio.github.io/book-store-react/)
+- The website can be viewed [here](https://book-store-react-eta.vercel.app/)
 
 ## Screenshots
 

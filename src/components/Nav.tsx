@@ -9,12 +9,12 @@ const Nav = ({ numberOfItems }: { numberOfItems: () => number }) => {
   return (
     <nav>
       <div className='nav__container'>
-        <Link to='/book-store-react'>
+        <Link to='/'>
           <img src={LibraryLogo} alt='' className='logo' />
         </Link>
         <ul className='nav__links'>
           <li className='nav__list'>
-            <Link to='/book-store-react' className='nav__link'>
+            <Link to='/' className='nav__link'>
               Home
             </Link>
           </li>

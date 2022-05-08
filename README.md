@@ -23,7 +23,7 @@
 
 `https://github.com/tahseenio/book-store-react.git`
 
-##### 2. Run using the VSCode Live Server extension or similar
+##### 2. Run using the npm run start
 
 Can be found [here](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
